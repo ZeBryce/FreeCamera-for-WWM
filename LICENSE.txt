@@ -1,0 +1,19 @@
+﻿燕云自由视角 / FreeCamera for WWM — 免费使用与分发授权 v1
+发布署名：Bryce。2026。
+
+一、在作者依法享有权利的范围内，允许免费个人使用本插件，并允许免费转载未经修改的完整发行包。
+转载须保留作者 Bryce、插件地址 https://github.com/ZeBryce/FreeCamera-for-WWM、本说明、风险提示和全部第三方许可证；不得冒充作者或官方版本。
+二、未经作者另行许可，不得销售本插件、设置付费下载/激活门槛、将插件作为收费商品捆绑或移除署名后再分发。允许 B站、Nexus Mods、GitHub 等正常托管与平台提供的常规下载服务，不因平台本身存在广告或可选会员即视为违规收费销售。
+三、此授权不是 OSI 开源许可证。源代码如未来公开，除另有明确授权外，仍按当时附带的许可证处理。第三方组件始终按其原有许可证授权；本文件不限制其独立权利。
+四、软件按现状提供，不保证特定用途、兼容性、持续可用或持续更新。不存在官方安全许可或“不封号”保证。版本更新、其他插件、图形驱动及输入法环境均可能影响运行。
+五、在适用法律允许的范围内限制因使用本软件产生的责任。本条不排除法律禁止排除的责任，包括依法不得免除的故意或重大过失责任。点击同意并不使无效条款生效，也不能保证作者不被追责。
+六、游戏及其他第三方的名称、商标、素材与程序归各权利人所有。本包不包含游戏资产、系统 DLL、033 插件、账号数据或授权码。所授权限仅涉及作者有权许可的部分。
+
+Free use and redistribution terms v1
+Release attribution: Bryce, 2026.
+1. To the extent the author has the right to license the work, free personal use and free redistribution of the unchanged, complete release are permitted. Preserve the author name, plugin URL (https://github.com/ZeBryce/FreeCamera-for-WWM), these terms, risk notices and all third-party licenses. Do not impersonate the author or an official release.
+2. Paid resale, paid download/activation gates, paid-product bundling and removal of attribution for redistribution require separate permission. Ordinary hosting on Bilibili, Nexus Mods and GitHub is permitted; a platform's advertising or optional membership alone is not prohibited resale.
+3. These are not OSI open-source terms. Any future source release is governed by the license accompanying it. Third-party components retain their original licenses and independent rights.
+4. Provided as is, with no guarantee of fitness, compatibility, availability or continued support. No official approval or ban-free guarantee is given. Game updates, other plugins, drivers and IMEs can affect operation.
+5. Liability limitations apply only to the extent permitted by applicable law. Nothing excludes non-excludable liability, including liability for intentional misconduct or gross negligence where exclusion is prohibited. Acceptance does not validate an unenforceable term or guarantee immunity from claims.
+6. Game and third-party trademarks, assets and software remain with their respective owners. No game assets, system DLLs, 033 files, account data or activation codes are distributed. Permission extends only to rights the author can grant.
