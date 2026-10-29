@@ -45,3 +45,11 @@ After the first successful install, the manager automatically sends one install 
 Free to use and share with credit to **Bryce**. No paid resale. See [LICENSE.txt](LICENSE.txt) for the full terms; third-party licenses are included in the release.
 
 If you enjoy the plugin, a **Star** helps support continued updates.
+
+## Changelog
+
+### v1.0.1
+- Fixed the missing panel cursor, and the panel not showing or misplaced under some display settings.
+
+### v1.0.0
+- First stable release.
