@@ -4,7 +4,7 @@
 
 A camera customization plugin for **Where Winds Meet**, by **Bryce**. Adjust your framing, save your favorite views, and switch between them in game.
 
-[Download](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [YouTube](https://www.youtube.com/watch?v=tMVm-ALSlO4) · [Bilibili](https://www.bilibili.com/video/BV1xzxK6cEBJ/) · [Report an issue](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
+[Download](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [Changelog](CHANGELOG.md) · [YouTube](https://www.youtube.com/watch?v=tMVm-ALSlO4) · [Bilibili](https://www.bilibili.com/video/BV1xzxK6cEBJ/) · [Report an issue](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
 
 ## Features
 
@@ -19,7 +19,7 @@ Residential interiors keep the game's native camera. Your custom view resumes wh
 
 ## Install
 
-1. Download **FreeCamera-for-WWM-1.0.0.zip** from Releases and extract it completely. Choose the release ZIP, not GitHub's source code archives.
+1. Download the latest **FreeCamera-for-WWM-&lt;version&gt;.zip** from [Releases](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) and extract it completely. Choose the release ZIP, not GitHub's source code archives.
 2. Exit the game and open **FreeCamera-Manager.exe**.
 3. Read and accept the usage notice, choose your language, select the game installation folder, then click **Install**.
 4. Start the game. Press **F10** for the panel and **−** to enable the custom camera.

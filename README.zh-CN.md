@@ -4,7 +4,7 @@
 
 由 **Bryce** 制作的《燕云十六声》镜头调节插件。调整构图，保存喜欢的视角，在游戏中快捷切换。
 
-[下载插件](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [BiliBili](https://www.bilibili.com/video/BV1xzxK6cEBJ/) · [YouTube](https://www.youtube.com/watch?v=tMVm-ALSlO4) · [反馈问题](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
+[下载插件](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [更新日志](CHANGELOG.zh-CN.md) · [BiliBili](https://www.bilibili.com/video/BV1xzxK6cEBJ/) · [YouTube](https://www.youtube.com/watch?v=tMVm-ALSlO4) · [反馈问题](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
 
 ## 功能
 
@@ -19,7 +19,7 @@
 
 ## 安装
 
-1. 在 Releases 下载 **FreeCamera-for-WWM-1.0.0.zip** 并完整解压，不要选择 GitHub 自动生成的 Source code 压缩包。
+1. 在 [Releases](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) 下载最新的 **FreeCamera-for-WWM-版本号.zip** 并完整解压，不要选择 GitHub 自动生成的 Source code 压缩包。
 2. 退出游戏，打开 **FreeCamera-Manager.exe**。
 3. 阅读并同意使用须知，选择界面语言和游戏安装文件夹，点击**安装**。
 4. 启动游戏，按 **F10** 打开面板，按 **−** 启用自由视角。
