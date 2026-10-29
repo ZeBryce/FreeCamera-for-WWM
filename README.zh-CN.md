@@ -4,7 +4,7 @@
 
 由 **Bryce** 制作的《燕云十六声》镜头调节插件。调整构图，保存喜欢的视角，在游戏中快捷切换。
 
-[下载插件](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [反馈问题](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
+[下载插件](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [视频演示（B站）](https://www.bilibili.com/video/BV1xzxK6cEBJ/) · [YouTube](https://www.youtube.com/watch?v=tMVm-ALSlO4) · [反馈问题](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
 
 ## 功能
 
