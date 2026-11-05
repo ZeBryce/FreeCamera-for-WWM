@@ -4,6 +4,8 @@
 
 A camera customization plugin for **Where Winds Meet**, by **Bryce**. Adjust your framing, save your favorite views, and switch between them in game.
 
+**This plugin is completely free. It is released only on GitHub and my Bilibili; any paid copy is a resale.**
+
 [Download](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) · [Changelog](CHANGELOG.md) · [YouTube](https://www.youtube.com/watch?v=tMVm-ALSlO4) · [Bilibili](https://www.bilibili.com/video/BV1xzxK6cEBJ/) · [Report an issue](https://github.com/ZeBryce/FreeCamera-for-WWM/issues)
 
 ## Features
