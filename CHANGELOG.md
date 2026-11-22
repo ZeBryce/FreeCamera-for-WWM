@@ -2,6 +2,23 @@
 
 **English** · [简体中文](CHANGELOG.zh-CN.md)
 
+## v1.1.3
+- DX11 support: with DX12 off in the launcher, the panel opens and the camera works.
+- Supports the DX11 executable of the CN update of 2026-11-19.
+- Supports the global update of 2026-11-02 (r64785).
+- New Options page (after Picture): Game view indoors and Game view while locked on hand the view back to the game in houses or while locked on, and your camera returns outdoors or when lock-on ends. Both are off by default, so the custom camera stays on as before. The parchment-sound checkbox moved to this page.
+- The custom camera switches itself on when you enter the game, once every check has passed and the camera is steady (uncheck it on the Options page).
+
+## v1.1.2
+- The custom camera works on horseback: mounting keeps the current view, and it can be adjusted or switched on while riding.
+- Dragging a camera slider no longer stutters, and dragging the distance in a shoulder view no longer sways sideways.
+- Fixed: in 1.1.1, with ReShade/033 installed, the panel lost its scroll artwork and did not respond to the mouse.
+
+## v1.1.1
+- Fixed: the game crashed when frame generation (FSR) was turned off.
+- Fixed: on some PCs the manager did not open and showed "Cannot set unknown member ... RichTextBox.IsReadOnly".
+- The plugin log records details each time the panel opens, to help with reports of the panel not showing.
+
 ## v1.1.0
 - Renamed Immersive Free Camera.
 - The panel is now a Chinese hanging scroll, with Camera, Lighting and Picture pages that each have their own shortcuts.

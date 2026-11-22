@@ -24,7 +24,7 @@ This adjusts the character camera; in portrait (F5) and photo (F7) modes the cam
 1. Download the latest **FreeCamera-for-WWM-&lt;version&gt;.zip** from [Releases](https://github.com/ZeBryce/FreeCamera-for-WWM/releases/latest) and extract it completely. Choose the release ZIP, not GitHub's source code archives.
 2. Exit the game and open **FreeCamera-Manager.exe**.
 3. Read and accept the usage notice, choose your language, select the game installation folder, then click **Install**.
-4. Start the game. Press **F10** for the panel and **−** to enable the custom camera.
+4. Start the game. The custom camera switches itself on once you are in the game world (turn this off on the Options page); press **F10** for the panel and **−** to switch it on or off.
 
 To update or uninstall, exit the game and use the manager. Updates preserve your presets and shortcuts. Detailed Chinese and English guides are included in the ZIP.
 
@@ -49,6 +49,23 @@ Free to use and share with credit to **Bryce**. No paid resale. See [LICENSE.txt
 If you enjoy the plugin, a **Star** helps support continued updates.
 
 ## Changelog
+
+### v1.1.3
+- DX11 support: with DX12 off in the launcher, the panel opens and the camera works.
+- Supports the DX11 executable of the CN update of 2026-11-19.
+- Supports the global update of 2026-11-02 (r64785).
+- New Options page (after Picture): Game view indoors and Game view while locked on hand the view back to the game in houses or while locked on, and your camera returns outdoors or when lock-on ends. Both are off by default, so the custom camera stays on as before. The parchment-sound checkbox moved to this page.
+- The custom camera switches itself on when you enter the game, once every check has passed and the camera is steady (uncheck it on the Options page).
+
+### v1.1.2
+- The custom camera works on horseback: mounting keeps the current view, and it can be adjusted or switched on while riding.
+- Dragging a camera slider no longer stutters, and dragging the distance in a shoulder view no longer sways sideways.
+- Fixed: in 1.1.1, with ReShade/033 installed, the panel lost its scroll artwork and did not respond to the mouse.
+
+### v1.1.1
+- Fixed: the game crashed when frame generation (FSR) was turned off.
+- Fixed: on some PCs the manager did not open and showed "Cannot set unknown member ... RichTextBox.IsReadOnly".
+- The plugin log records details each time the panel opens, to help with reports of the panel not showing.
 
 ### v1.1.0
 - Renamed Immersive Free Camera.
