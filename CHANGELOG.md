@@ -2,6 +2,22 @@
 
 **English** · [简体中文](CHANGELOG.zh-CN.md)
 
+## v1.2.0
+- The Lighting page is open: fog & atmosphere, clouds, exposure & bloom, character lighting, sun, moon & stars and colour, 45 values for every weather and region. Save a look under My lighting presets; [ turns all lighting adjustments on or off.
+- Two built-in lighting presets: clear skies and realistic.
+- New colour rows that act on one range of brightness: shadow gain, midtone gain, shadow gamma and midtone gamma; plus sun disk and film shoulder.
+- Lighting was tested on a few maps only; please report maps or weather where it looks wrong.
+- Lighting is off in multiplayer and co-op worlds and on activity and PvP maps, where the game uses its own; it comes back in a single-player world or on the open-world map.
+- The scroll has no shadow round it any more; its edge is a gilt hairline.
+- With the panel open, hold the right button on the game and drag to turn the view (also in the game's own photo mode), without closing the panel.
+- The portrait and photo free camera has its own switch (Preferences page): it no longer follows the custom camera switch and works everywhere, multiplayer worlds and activity and PvP maps included.
+- In portrait and photo modes WASD, QE, the wheel and a right-drag move the camera with the panel open, to frame a shot while setting the lighting.
+- In multiplayer worlds the custom camera switch is greyed out, as on the Lighting page.
+- Fixed: after Enter froze time in portrait or photo mode, the panel did not open and WASD and the wheel did not move the camera.
+- Fixed: with the panel open, Alt+Z (NVIDIA's recording overlay) showed two cursors.
+- Supports the global update of 2026-11-25 and the CN update of 2026-11-25 (DX12).
+- After a game update, once the author has added the new build, exit the game and click Check for updates in the manager; no reinstall needed.
+
 ## v1.1.3
 - DX11 support: with DX12 off in the launcher, the panel opens and the camera works.
 - Supports the DX11 executable of the CN update of 2026-11-19.
